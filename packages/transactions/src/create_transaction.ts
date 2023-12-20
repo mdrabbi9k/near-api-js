@@ -1,4 +1,4 @@
-import { PublicKey } from '@near-js/crypto';
+import {npm test PublicKey } from '@near-js/crypto';
 import BN from 'bn.js';
 
 import { Action } from './actions';
